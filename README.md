@@ -99,6 +99,8 @@ Genereres automatisk med Swagger
 
 Tilgjengelig på http://localhost:8080/swagger-ui/ når applikasjonen kjører
 
+
+
 English version
 
 OBJ2100
