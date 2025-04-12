@@ -129,8 +129,8 @@ Lombok
 
 Swagger (for API-dokumentation)
 
-📋 projecttitle
-📁 project settup
+📋 Projecttitle
+📁 Project setup
 Established with Spring Initializr
 
 Included functions:
@@ -152,7 +152,7 @@ Create the database: mail_server_db
 
 Configure src/main/resources/application.properties:
 
-properties
+Properties
 
 spring.datasource.url=jdbc:postgresql://localhost:5432/mail_server_db
 spring.datasource.username=postgres
